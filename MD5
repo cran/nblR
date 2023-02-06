@@ -1,0 +1,17 @@
+760250e31a2a85dbdbc9bc5ec0d894f0 *DESCRIPTION
+cfbd67e0e48ea909a9aebd73c7054da4 *NAMESPACE
+cedb7c277ce5227f89f75b1e4d404b79 *NEWS.md
+2097b31c6100b156e3b6ca3a37c558ef *R/get_data.R
+236406e675f1a44912487a0462e0df34 *R/internals.R
+f7b03f00f266151e76862eb60e9ee661 *README.md
+eaec265452185179c5a6158b489ccf97 *man/figures/bballer.png
+acc32b3e35f0076952b64045c96626ad *man/figures/bballer_2.png
+3ec7e553ee8c7cd03233185616f864bd *man/figures/logo.png
+64d9a1774e7afe27b547ca1a3462d387 *man/figures/sticker.R
+ceb53f9006fd2ce4956aa61b59776c89 *man/nbl_box_player.Rd
+36a57aeb638eeb5c5065ca59976a7de5 *man/nbl_box_team.Rd
+6fc0269c0a160e07002adcd108ba6c17 *man/nbl_pbp.Rd
+99af48e6993ea7ff57b712a8859dee39 *man/nbl_results.Rd
+8d5c7200ddb767928b94bb0628bc1a09 *man/nbl_shots.Rd
+d7c100d6ad9280339a59862e3a33fb61 *tests/testthat.R
+f8b0c71384e2053765c4d05aedd1161b *tests/testthat/test-nblr.R
